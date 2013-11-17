@@ -4,7 +4,7 @@ This is a simple 3D printed platter to hold the Adafruit Trinket, a power jack, 
 
 Although this design has a 90-degree corner, that corner has a lot of strain-relief. The outside edges have quarter-circles. The inside corner edge is rounded, not sharp.
 
-![render](https://raw.github.com/BrianEnigma/trinket-platter/master/render.png "render")
+![render](https://raw.github.com/BrianEnigma/trinket-platter/master/images/render.png "render")
 
 #Parts
 
