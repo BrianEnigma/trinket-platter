@@ -6,6 +6,8 @@ Although this design has a 90-degree corner, that corner has a lot of strain-rel
 
 ![render](https://raw.github.com/BrianEnigma/trinket-platter/master/images/render.png "render")
 
+![image2](https://raw.github.com/BrianEnigma/trinket-platter/master/images/image2.jpg "image2")
+
 #Parts
 
 Hardware you will have to supply:
