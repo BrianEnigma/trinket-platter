@@ -50,13 +50,13 @@ module base()
 
 module trinket_holes()
 {
-    translate(v = [-13.075, 6.75, -1])
+    translate(v = [-10.675, 5.55, -1])
         cylinder(h = HEIGHT, r = 1.2, $fn = DETAIL);
-    translate(v = [-13.075, -6.75, -1])
+    translate(v = [-10.675, -5.55, -1])
         cylinder(h = HEIGHT, r = 1.2, $fn = DETAIL);
-    translate(v = [13.075, 6.75, -1])
+    translate(v = [10.675, 5.55, -1])
         cylinder(h = HEIGHT, r = 1.2, $fn = DETAIL);
-    translate(v = [13.075, -6.75, -1])
+    translate(v = [10.675, -5.55, -1])
         cylinder(h = HEIGHT, r = 1.2, $fn = DETAIL);
 }
 
