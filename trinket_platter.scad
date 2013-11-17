@@ -72,5 +72,5 @@ difference()
     // hole for securing wires
     translate(v = [WIDTH_Y + 4, WIDTH_X / 2, -1])
         scale(v = [1, 1.5, 1])
-        cylinder(r = 4, h = THICKNESS + 2, $fn = DETAIL);
+        cylinder(r = 4.1, h = THICKNESS + 2, $fn = DETAIL);
 }
