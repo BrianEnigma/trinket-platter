@@ -2,6 +2,12 @@
 
 This is a simple 3D printed platter to hold the Adafruit Trinket, a power jack, and a wire strain relief. The STL file as well as the OpenSCAD source are available.
 
+Although this design has a 90-degree corner, that corner has a lot of strain-relief. The outside edges have quarter-circles. The inside corner edge is rounded, not sharp.
+
+![render](https://raw.github.com/BrianEnigma/trinket-platter/master/render.png "render")
+
+#Parts
+
 Hardware you will have to supply:
 
 - An [Adafruit Trinket](https://www.adafruit.com/products/1501)
